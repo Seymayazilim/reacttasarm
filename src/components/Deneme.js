@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Deneme extends Component {
+ class Deneme extends Component {
   render() {
     return (
       <div>
-        
+
 
 
 
@@ -101,3 +101,4 @@ export default class Deneme extends Component {
     )
   }
 }
+export default Deneme;
